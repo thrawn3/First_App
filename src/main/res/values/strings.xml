@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">First App</string>
+    <string name="hello_world">Hello world! And welcome to the first baby steps toward the Tag around the world app.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
